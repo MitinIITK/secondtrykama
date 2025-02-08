@@ -1021,7 +1021,7 @@ canvas {
       height: 350px;
     right: 5%;
     
-    background-image: url('/faltu/img1_1.jpg');
+    background-image: url('img/img1_1.jpg');
   }
 }
 .car1{
